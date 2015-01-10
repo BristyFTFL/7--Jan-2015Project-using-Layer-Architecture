@@ -1,0 +1,24 @@
+D:\Bristy\7-Jan-2015 Project\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.exe.config
+D:\Bristy\7-Jan-2015 Project\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.exe
+D:\Bristy\7-Jan-2015 Project\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.pdb
+D:\Bristy\7-Jan-2015 Project\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.csprojResolveAssemblyReference.cache
+D:\Bristy\7-Jan-2015 Project\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.Properties.Resources.resources
+D:\Bristy\7-Jan-2015 Project\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.csproj.GenerateResource.Cache
+D:\Bristy\7-Jan-2015 Project\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.exe
+D:\Bristy\7-Jan-2015 Project\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.pdb
+D:\Bristy\7-Jan-2015 Project\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.MainUI.resources
+D:\Bristy\7-Jan-2015 Project\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.UI.AddDesignationUI.resources
+D:\Bristy\7-Jan-2015 Project\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.UI.EmployeeInformationEntryUI.resources
+D:\Bristy\7-Jan-2015 Project\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.UI.SearchModifyEmployeeUI.resources
+D:\Daily Project\7-Jan-2015 Project\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.exe.config
+D:\Daily Project\7-Jan-2015 Project\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.exe
+D:\Daily Project\7-Jan-2015 Project\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.pdb
+D:\Daily Project\7-Jan-2015 Project\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.csprojResolveAssemblyReference.cache
+D:\Daily Project\7-Jan-2015 Project\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.UI.AddDesignationUI.resources
+D:\Daily Project\7-Jan-2015 Project\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.UI.EmployeeInformationEntryUI.resources
+D:\Daily Project\7-Jan-2015 Project\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.MainUI.resources
+D:\Daily Project\7-Jan-2015 Project\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.Properties.Resources.resources
+D:\Daily Project\7-Jan-2015 Project\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.UI.SearchModifyEmployeeUI.resources
+D:\Daily Project\7-Jan-2015 Project\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.csproj.GenerateResource.Cache
+D:\Daily Project\7-Jan-2015 Project\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.exe
+D:\Daily Project\7-Jan-2015 Project\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.pdb
